@@ -1,0 +1,1 @@
+Uses kqueue on macos to watch for edit events on (files in this example). It was initially created to watch changes to etc/hosts and then override with a custom config if any there. Purpose is to block websites for small siblings.
