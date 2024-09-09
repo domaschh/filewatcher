@@ -1,0 +1,22 @@
+##
+#Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+#
+127.0.0.1 amazon.de
+127.0.0.1 www.amazon.de
+127.0.0.1 www.reddit.com
+127.0.0.1 reddit.com
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+127.0.0.1 x.com
+i127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 netflix.com
+127.0.0.1 www.netflix.com
+127.0.0.1 www.twitch.tv
+127.0.0.1 twitch.tv
+127.0.0.1 linkedin.com
+127.0.0.1 www.linkedin.com
